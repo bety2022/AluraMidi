@@ -1,6 +1,7 @@
 <h1 align="center"> PROYECTO ALURA MIDI </h1>
 
-# Front End G6 - ONE 
+<h1 align="center"> Front End G6 - ONE </h1>
+ 
 # Curso de JavaScript para Web: Crea páginas dinámicas 
 
 
