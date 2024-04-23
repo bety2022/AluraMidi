@@ -21,7 +21,7 @@ facilitando, así, su mantenimiento.
 
 
 <p align="center" >
-     <img width="800" heigth="600" src="images/AluraMidi.png">
+     <img width="600" heigth="400" src="images/AluraMidi.png">
 </p>
 
 <br />
