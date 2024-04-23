@@ -1,7 +1,7 @@
 <h1 align="center"> PROYECTO ALURA MIDI </h1>
 
-
-# Curso de JavaScript para Web: Crea páginas dinámicas | Front End G6 - ONE 
+# Front End G6 - ONE 
+# Curso de JavaScript para Web: Crea páginas dinámicas 
 
 
 👩‍💻 💻 Desarrollo del proyecto Alura Midi: "Instrumento Musical "   
