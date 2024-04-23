@@ -20,6 +20,7 @@ Aprendimos cómo crear un código optimizado, reduciendo las repeticiones de có
 facilitando, así, su mantenimiento.
 
 
+
 <p align="center" >
      <img width="400" heigth="200" src="images/AluraMidi.png">
 </p>
